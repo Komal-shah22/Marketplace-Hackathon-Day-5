@@ -44,7 +44,7 @@ The primary objective of Day 5 was to prepare the marketplace for deployment by 
 ---
 
 #### *2. Error Handling*
-![imag alt]()
+![imag alt](https://github.com/Komal-shah22/Marketplace-Hackathon-Day-5/blob/0ea5a91ecaf3db01a1a32e8614f8d845a1bcb86c/error.jpg)
 
 *Steps Taken:*
 1. *Error Messages:*
