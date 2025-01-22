@@ -56,7 +56,7 @@ The primary objective of Day 5 was to prepare the marketplace for deployment by 
    - Example: "No items found" message for missing data.
 
 
-![imag alt]()
+![imag alt](https://github.com/Komal-shah22/Marketplace-Hackathon-Day-5/blob/f7f69c6d6577385fdc7c251d5d182bbc1acafddf/not%20fond.jpg)
 
 *Test Results:*
 | Test Case ID | Test Case Description          | Test Steps                       | Expected Result                | Actual Result        | Status  | Remarks                  |
@@ -78,7 +78,7 @@ The primary objective of Day 5 was to prepare the marketplace for deployment by 
    - Page load time reduced to under 2 seconds.
 
 
- ![imag alt]()  
+ ![imag alt](https://github.com/Komal-shah22/Marketplace-Hackathon-Day-5/blob/f7f69c6d6577385fdc7c251d5d182bbc1acafddf/report.jpg)  
 
 *Test Results:*
 | Test Case ID | Test Case Description         | Test Steps                        | Expected Result                | Actual Result         | Status  | Remarks                  |
